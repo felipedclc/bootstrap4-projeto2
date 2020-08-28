@@ -1,0 +1,12 @@
+/*
+* 
+* @author Jamilton Damasceno
+*/
+
+/****LAYOUT******/
+body {
+    background: url(../imagens/capa.png), /*IMAGEM QUE FICA POR CIMA*/
+                url(../imagens/ruido.png),
+                linear-gradient(50deg, #ff4169, #7c26f8); /*EFEITO DEGRADÊ*/
+    background-attachment: fixed; /*EFEITO PARALAX*/
+}
