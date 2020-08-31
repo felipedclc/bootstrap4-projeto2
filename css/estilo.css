@@ -1,6 +1,9 @@
 html, body, #home {
     height: 100%;
+<<<<<<< HEAD
     overflow-x: hidden; /*ESCONDE A BARRA DE ROLAGEM HORIZONTAL (E OS CONTEÚDOS QUE NÃO COUBEREM)*/
+=======
+>>>>>>> 537e1b1e23577164edf483c422dfe077683c6878
 }
 
 /****LAYOUT******/
@@ -69,6 +72,7 @@ nav.navbar-transparente {
     color: black;
 }
 
+<<<<<<< HEAD
 /******ESTRUTURA DE CONTEÚDOS********/
 #servicos {
     background: white;
@@ -115,6 +119,8 @@ footer .navbar-nav a:hover {
     text-decoration: none;
 }
 
+=======
+>>>>>>> 537e1b1e23577164edf483c422dfe077683c6878
 /********TIPOGRAFIA*************/
 h1 {
     font-weight: 900;
@@ -123,6 +129,7 @@ h1 {
     color: white;
 }
 
+<<<<<<< HEAD
 h2 {
     font-size: 3em;
     font-weight: 700;
@@ -140,6 +147,11 @@ h3 {
     .btn-custom {
         margin: 10px 15px;
     }
+=======
+/* Dispositivos extra small (telefones em modo retrato, com menos de 576px)*/
+@media (max-width: 575.98px) { 
+    
+>>>>>>> 537e1b1e23577164edf483c422dfe077683c6878
  }
 
 /* Dispositivos small (telefones em modo paisagem, com 576px ou mais)*/
@@ -147,9 +159,12 @@ h3 {
     h1 {
         font-size: 3em;
     }
+<<<<<<< HEAD
     .btn-custom {
         margin: 10px 15px;
     }
+=======
+>>>>>>> 537e1b1e23577164edf483c422dfe077683c6878
  }
 
 /* Dispositivos médios (tablets com 768px ou mais)*/
